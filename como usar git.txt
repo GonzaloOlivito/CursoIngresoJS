@@ -1,0 +1,9 @@
+
+paso 1: git clone repo
+cd C(tab) (ingreso a la carpeta Cursoingreso)
+
+paso 2: en la linea de comandos poner git add . 
+
+paso 3: git commit -m "comentario del commit"
+
+paso 4: git push
