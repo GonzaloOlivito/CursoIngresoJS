@@ -14,7 +14,7 @@ segundoNumero =	numeroDivisor.value;
 primerNumero = parseInt(primerNumero);
 segundoNumero = parseInt(segundoNumero);
 
-resultado = primerNumero%segundoNumero;
+resultado= primerNumero%segundoNumero;
 
 alert ("El resto es " +resultado);
 
