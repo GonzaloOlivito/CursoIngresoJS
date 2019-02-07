@@ -12,7 +12,7 @@ sueldos=document.getElementById('sueldo').value;
 
 sueldoEntero= parseInt(sueldos);
 
-aumento= (sueldoEntero*1.10);
+aumento = (sueldoEntero*1.10);
 
 
 document.getElementById('resultado').value=aumento;
