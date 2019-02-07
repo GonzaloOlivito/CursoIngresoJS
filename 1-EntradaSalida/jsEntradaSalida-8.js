@@ -8,8 +8,8 @@ var primerNumero;
 var segundoNumero;
 var resultado;
 
-primerNumero = numeroDividendo.value
-segundoNumero =	numeroDivisor.value
+primerNumero = numeroDividendo.value;
+segundoNumero =	numeroDivisor.value;
 
 primerNumero = parseInt(primerNumero);
 segundoNumero = parseInt(segundoNumero);
