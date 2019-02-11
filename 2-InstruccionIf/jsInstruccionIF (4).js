@@ -6,13 +6,9 @@ var laEdad;
 laEdad=edad.value;
 laEdad=parseInt(laEdad);
 
-if (laEdad>12)
-{
-if (laEdad<18)
-	
+if (laEdad>12 && laEdad<18)
+{	
 	alert("Es adolescente")
-
-
 }
 
 
