@@ -10,7 +10,7 @@ if (laEdad>17)
 {
 	alert("Es mayor de edad");
 } 
-	else
+	{else
 		if(laEdad<13)
 		{
 			alert("Es niño");
@@ -21,10 +21,6 @@ if (laEdad>17)
 			alert ("Es adolescente");
 		}
 
-
-
- 
-
-
+}
 
 }//FIN DE LA FUNCIÓN
