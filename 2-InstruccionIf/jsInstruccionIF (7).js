@@ -10,9 +10,9 @@ laEdad=parseInt(laEdad);
 
 elEstadocivil=estadoCivil.value;
 
-if(laEdad>18 && elEstadocivil=Soltero)
+if(laEdad<18 && elEstadocivil!="Soltero")
 {
-	alert ("asda");
+	alert ("Es muy pequeño para no ser soltero");
 }
 
 
